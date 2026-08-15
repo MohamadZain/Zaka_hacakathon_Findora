@@ -57,3 +57,6 @@ python data/generate_catalog.py
 - Product photography is procedurally generated neutral placeholder SVGs
   (`data/generate_catalog.py`) so the demo runs fully offline.
 - No auth, cart, checkout, payments, or database — out of scope by design.
+
+
+#1234
