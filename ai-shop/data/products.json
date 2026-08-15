@@ -1,0 +1,609 @@
+[
+  {
+    "id": "shirt-001",
+    "name": "Oversized Cotton Tee",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "H&M",
+    "image": "/static/images/products/shirt-001.svg",
+    "price": 129,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "White",
+    "style": "oversized",
+    "visual_match": 78,
+    "product_url": "https://example.com/hm/shirt-001"
+  },
+  {
+    "id": "shirt-002",
+    "name": "Classic Crew Tee",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "Zara",
+    "image": "/static/images/products/shirt-002.svg",
+    "price": 159,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Off-White",
+    "style": "relaxed",
+    "visual_match": 86,
+    "product_url": "https://example.com/zara/shirt-002"
+  },
+  {
+    "id": "shirt-003",
+    "name": "Relaxed Fit Shirt",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "Max",
+    "image": "/static/images/products/shirt-003.svg",
+    "price": 37,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Black",
+    "style": "casual",
+    "visual_match": 73,
+    "product_url": "https://example.com/max/shirt-003"
+  },
+  {
+    "id": "shirt-004",
+    "name": "Boxy Cotton Tee",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "LC Waikiki",
+    "image": "/static/images/products/shirt-004.svg",
+    "price": 75,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Stone",
+    "style": "oversized",
+    "visual_match": 87,
+    "product_url": "https://example.com/lcwaikiki/shirt-004"
+  },
+  {
+    "id": "shirt-005",
+    "name": "Essential Crew Neck",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "Nike",
+    "image": "/static/images/products/shirt-005.svg",
+    "price": 239,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Sand",
+    "style": "oversized",
+    "visual_match": 92,
+    "product_url": "https://example.com/nike/shirt-005"
+  },
+  {
+    "id": "shirt-006",
+    "name": "Heavyweight Tee",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "Adidas",
+    "image": "/static/images/products/shirt-006.svg",
+    "price": 95,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "White",
+    "style": "relaxed",
+    "visual_match": 81,
+    "product_url": "https://example.com/adidas/shirt-006"
+  },
+  {
+    "id": "shirt-007",
+    "name": "Drop-Shoulder Tee",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "H&M",
+    "image": "/static/images/products/shirt-007.svg",
+    "price": 77,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Off-White",
+    "style": "streetwear",
+    "visual_match": 91,
+    "product_url": "https://example.com/hm/shirt-007"
+  },
+  {
+    "id": "shirt-008",
+    "name": "Plain Cotton Shirt",
+    "category": "shirt",
+    "category_label": "Shirt",
+    "retailer": "Zara",
+    "image": "/static/images/products/shirt-008.svg",
+    "price": 95,
+    "currency": "QAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": "Black",
+    "style": "relaxed",
+    "visual_match": 96,
+    "product_url": "https://example.com/zara/shirt-008"
+  },
+  {
+    "id": "pants-009",
+    "name": "Wide-Leg Trousers",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "H&M",
+    "image": "/static/images/products/pants-009.svg",
+    "price": 131,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Black",
+    "style": "minimal",
+    "visual_match": 92,
+    "product_url": "https://example.com/hm/pants-009"
+  },
+  {
+    "id": "pants-010",
+    "name": "Straight Fit Pants",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "Zara",
+    "image": "/static/images/products/pants-010.svg",
+    "price": 145,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Charcoal",
+    "style": "streetwear",
+    "visual_match": 93,
+    "product_url": "https://example.com/zara/pants-010"
+  },
+  {
+    "id": "pants-011",
+    "name": "Relaxed Chino",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "Max",
+    "image": "/static/images/products/pants-011.svg",
+    "price": 45,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Stone",
+    "style": "relaxed",
+    "visual_match": 70,
+    "product_url": "https://example.com/max/pants-011"
+  },
+  {
+    "id": "pants-012",
+    "name": "Tapered Trousers",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "LC Waikiki",
+    "image": "/static/images/products/pants-012.svg",
+    "price": 73,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Navy",
+    "style": "classic",
+    "visual_match": 83,
+    "product_url": "https://example.com/lcwaikiki/pants-012"
+  },
+  {
+    "id": "pants-013",
+    "name": "Cotton Twill Pants",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "H&M",
+    "image": "/static/images/products/pants-013.svg",
+    "price": 83,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Khaki",
+    "style": "relaxed",
+    "visual_match": 79,
+    "product_url": "https://example.com/hm/pants-013"
+  },
+  {
+    "id": "pants-014",
+    "name": "Wide Leg Cargo",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "Zara",
+    "image": "/static/images/products/pants-014.svg",
+    "price": 175,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Black",
+    "style": "oversized",
+    "visual_match": 82,
+    "product_url": "https://example.com/zara/pants-014"
+  },
+  {
+    "id": "pants-015",
+    "name": "Loose Fit Trousers",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "Max",
+    "image": "/static/images/products/pants-015.svg",
+    "price": 53,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Charcoal",
+    "style": "classic",
+    "visual_match": 73,
+    "product_url": "https://example.com/max/pants-015"
+  },
+  {
+    "id": "pants-016",
+    "name": "Basic Straight Pants",
+    "category": "pants",
+    "category_label": "Pants",
+    "retailer": "LC Waikiki",
+    "image": "/static/images/products/pants-016.svg",
+    "price": 51,
+    "currency": "QAR",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "color": "Stone",
+    "style": "oversized",
+    "visual_match": 78,
+    "product_url": "https://example.com/lcwaikiki/pants-016"
+  },
+  {
+    "id": "shoes-017",
+    "name": "Court Sneaker",
+    "category": "shoes",
+    "category_label": "Shoes",
+    "retailer": "Nike",
+    "image": "/static/images/products/shoes-017.svg",
+    "price": 205,
+    "currency": "QAR",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color": "White",
+    "style": "oversized",
+    "visual_match": 96,
+    "product_url": "https://example.com/nike/shoes-017"
+  },
+  {
+    "id": "shoes-018",
+    "name": "Classic Runner",
+    "category": "shoes",
+    "category_label": "Shoes",
+    "retailer": "Adidas",
+    "image": "/static/images/products/shoes-018.svg",
+    "price": 185,
+    "currency": "QAR",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color": "White/Black",
+    "style": "streetwear",
+    "visual_match": 81,
+    "product_url": "https://example.com/adidas/shoes-018"
+  },
+  {
+    "id": "shoes-019",
+    "name": "Low-Top Sneaker",
+    "category": "shoes",
+    "category_label": "Shoes",
+    "retailer": "H&M",
+    "image": "/static/images/products/shoes-019.svg",
+    "price": 85,
+    "currency": "QAR",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color": "Off-White",
+    "style": "streetwear",
+    "visual_match": 86,
+    "product_url": "https://example.com/hm/shoes-019"
+  },
+  {
+    "id": "shoes-020",
+    "name": "Retro Trainer",
+    "category": "shoes",
+    "category_label": "Shoes",
+    "retailer": "Zara",
+    "image": "/static/images/products/shoes-020.svg",
+    "price": 137,
+    "currency": "QAR",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color": "Black",
+    "style": "oversized",
+    "visual_match": 81,
+    "product_url": "https://example.com/zara/shoes-020"
+  },
+  {
+    "id": "shoes-021",
+    "name": "Everyday Sneaker",
+    "category": "shoes",
+    "category_label": "Shoes",
+    "retailer": "Nike",
+    "image": "/static/images/products/shoes-021.svg",
+    "price": 147,
+    "currency": "QAR",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color": "White",
+    "style": "oversized",
+    "visual_match": 88,
+    "product_url": "https://example.com/nike/shoes-021"
+  },
+  {
+    "id": "shoes-022",
+    "name": "Canvas Trainer",
+    "category": "shoes",
+    "category_label": "Shoes",
+    "retailer": "Adidas",
+    "image": "/static/images/products/shoes-022.svg",
+    "price": 147,
+    "currency": "QAR",
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "color": "White/Black",
+    "style": "minimal",
+    "visual_match": 82,
+    "product_url": "https://example.com/adidas/shoes-022"
+  },
+  {
+    "id": "bag-023",
+    "name": "Canvas Tote",
+    "category": "bag",
+    "category_label": "Bag",
+    "retailer": "Zara",
+    "image": "/static/images/products/bag-023.svg",
+    "price": 159,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Black",
+    "style": "casual",
+    "visual_match": 93,
+    "product_url": "https://example.com/zara/bag-023"
+  },
+  {
+    "id": "bag-024",
+    "name": "Crossbody Bag",
+    "category": "bag",
+    "category_label": "Bag",
+    "retailer": "H&M",
+    "image": "/static/images/products/bag-024.svg",
+    "price": 95,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Sand",
+    "style": "classic",
+    "visual_match": 80,
+    "product_url": "https://example.com/hm/bag-024"
+  },
+  {
+    "id": "bag-025",
+    "name": "Structured Tote",
+    "category": "bag",
+    "category_label": "Bag",
+    "retailer": "Max",
+    "image": "/static/images/products/bag-025.svg",
+    "price": 51,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Stone",
+    "style": "casual",
+    "visual_match": 76,
+    "product_url": "https://example.com/max/bag-025"
+  },
+  {
+    "id": "bag-026",
+    "name": "Mini Shoulder Bag",
+    "category": "bag",
+    "category_label": "Bag",
+    "retailer": "Zara",
+    "image": "/static/images/products/bag-026.svg",
+    "price": 157,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Brown",
+    "style": "streetwear",
+    "visual_match": 81,
+    "product_url": "https://example.com/zara/bag-026"
+  },
+  {
+    "id": "bag-027",
+    "name": "Everyday Backpack",
+    "category": "bag",
+    "category_label": "Bag",
+    "retailer": "H&M",
+    "image": "/static/images/products/bag-027.svg",
+    "price": 129,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Black",
+    "style": "streetwear",
+    "visual_match": 80,
+    "product_url": "https://example.com/hm/bag-027"
+  },
+  {
+    "id": "watch-028",
+    "name": "Minimal Steel Watch",
+    "category": "watch",
+    "category_label": "Watch",
+    "retailer": "Zara",
+    "image": "/static/images/products/watch-028.svg",
+    "price": 151,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Black",
+    "style": "minimal",
+    "visual_match": 84,
+    "product_url": "https://example.com/zara/watch-028"
+  },
+  {
+    "id": "watch-029",
+    "name": "Classic Leather Strap Watch",
+    "category": "watch",
+    "category_label": "Watch",
+    "retailer": "H&M",
+    "image": "/static/images/products/watch-029.svg",
+    "price": 97,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Silver",
+    "style": "casual",
+    "visual_match": 83,
+    "product_url": "https://example.com/hm/watch-029"
+  },
+  {
+    "id": "watch-030",
+    "name": "Sport Watch",
+    "category": "watch",
+    "category_label": "Watch",
+    "retailer": "Max",
+    "image": "/static/images/products/watch-030.svg",
+    "price": 73,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Brown",
+    "style": "relaxed",
+    "visual_match": 87,
+    "product_url": "https://example.com/max/watch-030"
+  },
+  {
+    "id": "watch-031",
+    "name": "Round Dial Watch",
+    "category": "watch",
+    "category_label": "Watch",
+    "retailer": "Zara",
+    "image": "/static/images/products/watch-031.svg",
+    "price": 171,
+    "currency": "QAR",
+    "sizes": [
+      "One Size"
+    ],
+    "color": "Gold",
+    "style": "relaxed",
+    "visual_match": 80,
+    "product_url": "https://example.com/zara/watch-031"
+  }
+]
