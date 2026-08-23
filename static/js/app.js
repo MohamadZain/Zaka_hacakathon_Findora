@@ -427,7 +427,7 @@
 
   function updateAnalyzeButton() {
     const btn = document.getElementById("cta-find-options");
-    btn.textContent = `Analyze & Find Options (${state.budgetMin}-${state.budgetMax} QAR)`;
+    btn.textContent = `Analyze & Find Options`;
   }
 
   function updateAdvancedSummary() {
